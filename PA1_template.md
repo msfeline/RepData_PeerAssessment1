@@ -1,4 +1,4 @@
-Reproducible Research Peer Assessment Assignment - Week #2
+Reproducible Research Peer Assessment Assignment 1
 ========================================================
 
 # Introduction
